@@ -8,5 +8,5 @@ Prototype ini dibuat sebagai tugas proyek akhir dari kerja praktek pada tahun 20
 ![Gambar][gambar-url-admin]
 
 <!-- MARKDOWN LINKS -->
-[gambar-url-user]: https://github.com/agungpambudi55/prototype-training-center/blob/master/screenshot/tc%20eepis%20user.png
-[gambar-url-admin]: https://github.com/agungpambudi55/prototype-training-center/blob/master/screenshot/tc%20eepis%20admin.png
+[gambar-url-user]: https://github.com/agungpambudi55/prototype-training-center-application/blob/master/screenshot/tc%20eepis%20user.png
+[gambar-url-admin]: https://github.com/agungpambudi55/prototype-training-center-application/blob/master/screenshot/tc%20eepis%20admin.png
